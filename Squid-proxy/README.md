@@ -11,3 +11,5 @@ To run it properly :
 	4. Open a new terminal and set the ENVs for forwarding every request to the docker bridge and to the port that squid listens to.  (export http_proxy=http://172.17.0.1:3128, export https_proxy=http://172.17.0.1:3128, ftp_proxy=http://172.17.0.1:3128 )
 	5. curl -v http://google.com for one terminal and check to the other terminal if the request is being forwarded in the squid proxy docker.
 ```
+
+More to come !! :+1
