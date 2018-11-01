@@ -12,4 +12,9 @@ To run it properly :
 	5. curl -v http://google.com for one terminal and check to the other terminal if the request is being forwarded in the squid proxy docker.
 ```
 
+
+##TODO
+- []Need to increase the cache size to accomodate more than one entry.
+
+
 - [x] More to come !! :+1: :shipit:
