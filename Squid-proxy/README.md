@@ -16,7 +16,7 @@ To run it properly :
 
 
 ## TODO
-- [ ]Need to increase the cache size to accomodate more than one entry.
+- [ ] Need to increase the cache size to accomodate more than one entry.
 
 
 - [x] More to come !! :+1: :shipit:
