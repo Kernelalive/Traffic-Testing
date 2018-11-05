@@ -1,2 +1,2 @@
 # Docker Containers for various testing puproses!
-: beer:
+:beer: :beer: :beer: 
